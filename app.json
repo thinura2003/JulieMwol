@@ -1,11 +1,11 @@
 {
     "name": "Julie-Mwol",
     "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-    "logo": "https://i.imgur.com/ADXSU8e.jpeg",
+    "logo": "https://telegra.ph/file/89b8d1e45a324f4aa3be1.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/farhan-dqz/Julie-Mwol",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "repository": "https://github.com/thinura2003/QueenWA",
+    "website":   "https://github.com/thinura2003/QueenWA",
+    "success_url": "https://github.com/thinura2003/QueenWA",
     "stack": "container",
     "env": {
         "JULIE_SESSION": {
