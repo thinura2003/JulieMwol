@@ -81,7 +81,7 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Julie",
+            "RESTART_DESC": "Restart QueenWA",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown Julie",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
@@ -221,7 +221,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Converting..🧭```"
+            "DOWNLOADING": "```QueenWA Converting ```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -250,7 +250,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅  Updated!*",
             "UPDATED_LOCAL": "*✅ Updated!*",
-            "AFTER_UPDATE": "*JulieMwol Restarting !*",
+            "AFTER_UPDATE": "*QueenWA Restarting Thanks for using QueenWA I'm Thinuwa!*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -291,7 +291,7 @@
             "HUMI": "Humidity",
             "WIND": "Wind Speed",
             "CLOUD": "Cloud",
-            "NOT_FOUND": "```I couldn't find a city with this name. 😖```"
+            "NOT_FOUND": "```QueenWA couldn't find a city with this name. 😖```"
         },
         "web": {
             "SPEEDTEST_DESC": "Measures Download and Upload speed.",
